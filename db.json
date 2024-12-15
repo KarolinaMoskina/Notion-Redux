@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user@gmail.com",
+      "password": "nbhjsjshbjf767GGFHSNCJ7ysv",
+      "createdAt": 1731857258728
+    },
+    {
+      "id": "b967",
+      "email": "karolina.moskina@icloud.com",
+      "password": "Qwe12345"
+    }
+  ],
+  "notes": [
+    {
+      "id": "bc1a",
+      "title": "berherhr",
+      "body": "",
+      "createdAt": 1731858061988,
+      "authorId": "0f50"
+    },
+    {
+      "id": "8d33",
+      "title": "dfhdh",
+      "body": "hdxh",
+      "authorId": "0f50",
+      "createdAt": 1733519569379
+    },
+    {
+      "id": "e78c",
+      "title": "z",
+      "body": "",
+      "authorId": "b967",
+      "createdAt": 1734217541035
+    }
+  ]
+}
